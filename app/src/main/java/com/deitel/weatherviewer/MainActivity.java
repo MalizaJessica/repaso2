@@ -29,6 +29,7 @@ import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
    // List of Weather objects representing the forecast
+   ///no se que es lo que hago aqui
    private List<Weather> weatherList = new ArrayList<>();
 
    // ArrayAdapter for binding Weather objects to a ListView

@@ -36,6 +36,7 @@
        android:layout_marginEnd="@dimen/fab_margin"
        android:layout_marginBottom="@dimen/fab_margin"
        android:src="@drawable/ic_done_24dp"
+       app:backgroundTint="@color/colorPrimary"
        tools:ignore="SpeakableTextPresentCheck" />
 
 </android.support.design.widget.CoordinatorLayout>
